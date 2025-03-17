@@ -1,0 +1,57 @@
+﻿@page
+@model FUCourseManagementRazor.Pages.Student.Enrollment.EnrollmentHistoryModel
+
+@{
+    ViewData["Title"] = "Enrollment History";
+}
+
+<h1 class="text-center my-4">Enrollment History</h1>
+
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+<table class="table table-hover table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>Course Code</th>
+            <th>Course Title</th>
+            <th>Category</th>
+            <th>Enroll Date</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Enrollments != null && Model.Enrollments.Count != 0)
+        {
+            @foreach (var record in Model.Enrollments)
+            {
+                <tr>
+                    <td>@record.Course?.CourseCode</td>
+                    <td>@record.Course?.Title</td>
+                    <td>@record.Course?.Category</td>
+                    <td>@record.EnrollDate?.ToString("yyyy-MM-dd")</td>
+                    <td>
+                        @if (record.Dropped == true)
+                        {
+                            <span class="badge bg-danger">Dropped</span>
+                        }
+                        else
+                        {
+                            <span class="badge bg-success">Enrolled</span>
+                        }
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4" class="text-center text-danger fw-bold">
+                    No enrollment history found.
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

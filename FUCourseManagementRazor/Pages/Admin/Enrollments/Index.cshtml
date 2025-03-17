@@ -1,0 +1,51 @@
+﻿@page
+@model FUCourseManagementRazor.Pages.Admin.Enrollments.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EnrollmentRecord[0].EnrollDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EnrollmentRecord[0].Dropped)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EnrollmentRecord[0].Course)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EnrollmentRecord[0].User)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.EnrollmentRecord) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EnrollDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dropped)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Course.CourseCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.Email)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
