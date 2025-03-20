@@ -8,9 +8,11 @@ using Microsoft.EntityFrameworkCore;
 using FUBusiness;
 using FUBusiness.Models;
 using FURepositories;
+using Microsoft.AspNetCore.Authorization;
 
 namespace FUCourseManagementRazor.Pages.Admin.Enrollments
 {
+    [Authorize(Roles = "Admin")]
     public class IndexModel : PageModel
     {
         private readonly IEnrollmentRepository _enrollmentRepository;
@@ -24,11 +26,6 @@ namespace FUCourseManagementRazor.Pages.Admin.Enrollments
 
         public async Task<IActionResult> OnGetAsync()
         {
-            var role = HttpContext.Session.GetString("UserRole");
-            if (role != "Admin")
-            {
-                return RedirectToPage("/AccessDenied");
-            }
             EnrollmentRecord = await _enrollmentRepository.GetAllEnrollmentRecords();
             return Page();
         }

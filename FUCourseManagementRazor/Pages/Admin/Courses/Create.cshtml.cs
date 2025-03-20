@@ -1,17 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.AspNetCore.Mvc.Rendering;
-using FUBusiness;
 using FUBusiness.Models;
 using FURepositories;
 using Microsoft.AspNetCore.Authorization;
 
 namespace FUCourseManagementRazor.Pages.Admin.Courses
 {
+    [Authorize(Roles = "Admin")]
     public class CreateModel : PageModel
     {
         private readonly ICourseRepository _courseRepository;
@@ -23,11 +18,6 @@ namespace FUCourseManagementRazor.Pages.Admin.Courses
 
         public IActionResult OnGet()
         {
-            var role = HttpContext.Session.GetString("UserRole");
-            if (role != "Admin")
-            {
-                return RedirectToPage("/AccessDenied");
-            }
             return Page();
         }
 

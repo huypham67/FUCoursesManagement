@@ -8,22 +8,22 @@ using Microsoft.EntityFrameworkCore;
 using FUBusiness;
 using FUBusiness.Models;
 using FURepositories;
+using Microsoft.AspNetCore.Authorization;
+using System.Security.Claims;
 
 namespace FUCourseManagementRazor.Pages.Student.Courses
 {
+    [Authorize(Roles = "Student")]
     public class IndexModel : PageModel
     {
         private readonly ICourseRepository _courseRepository;
         private readonly IEnrollmentRepository _enrollmentRepository;
-        private readonly IHttpContextAccessor _httpContextAccessor;
 
         public IndexModel(ICourseRepository courseRepository, 
-            IEnrollmentRepository enrollmentRepository,
-            IHttpContextAccessor httpContextAccessor)
+            IEnrollmentRepository enrollmentRepository)
         {
             _courseRepository = courseRepository;
             _enrollmentRepository = enrollmentRepository;
-            _httpContextAccessor = httpContextAccessor;
         }
 
         [BindProperty(SupportsGet = true)]
@@ -37,12 +37,7 @@ namespace FUCourseManagementRazor.Pages.Student.Courses
         public List<int?> EnrolledCourses { get; set; } = new();
         public async Task<IActionResult> OnGetAsync()
         {
-            var role = HttpContext.Session.GetString("UserRole");
-            if (role != "Student")
-            {
-                return RedirectToPage("/AccessDenied");
-            }
-            int? userId = GetUserIdFromSession();
+            int? userId = GetUserIdFromClaims();
             Course = await _courseRepository.GetAllCourses();
             if (userId != null)
             {
@@ -60,12 +55,7 @@ namespace FUCourseManagementRazor.Pages.Student.Courses
 
         public async Task<IActionResult> OnPostEnrollAsync(int id)
         {
-            var role = HttpContext.Session.GetString("UserRole");
-            if (role != "Student")
-            {
-                return RedirectToPage("/AccessDenied");
-            }
-            int? userId = GetUserIdFromSession();
+            int? userId = GetUserIdFromClaims();
             if (userId == null)
             {
                 TempData["Error"] = "User not logged in.";
@@ -87,12 +77,7 @@ namespace FUCourseManagementRazor.Pages.Student.Courses
         }
         public async Task<IActionResult> OnPostToggleEnrollmentAsync(int id)
         {
-            var role = HttpContext.Session.GetString("UserRole");
-            if (role != "Student")
-            {
-                return RedirectToPage("/AccessDenied");
-            }
-            int? userId = GetUserIdFromSession();
+            int? userId = GetUserIdFromClaims();
             if (userId == null)
             {
                 TempData["Error"] = "User not logged in.";
@@ -118,9 +103,10 @@ namespace FUCourseManagementRazor.Pages.Student.Courses
             return RedirectToPage();
         }
 
-        private int? GetUserIdFromSession()
+        private int? GetUserIdFromClaims()
         {
-            return _httpContextAccessor.HttpContext?.Session.GetInt32("UserId");
+            var userIdClaim = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            return int.TryParse(userIdClaim, out int userId) ? userId : null;
         }
 
     }

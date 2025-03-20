@@ -1,6 +1,9 @@
 ﻿using FURepositories;
+using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Security.Claims;
 
 namespace FUCourseManagementRazor.Pages
 {
@@ -31,10 +34,18 @@ namespace FUCourseManagementRazor.Pages
                 return Page();
             }
 
-            // Lưu Session
-            HttpContext.Session.SetInt32("UserId", user.Id);
-            HttpContext.Session.SetString("UserName", user.FullName);
-            HttpContext.Session.SetString("UserRole", user.Role);
+            var claims = new List<Claim>
+            {
+                new Claim(ClaimTypes.Name, user.FullName),
+                new Claim(ClaimTypes.Role, user.Role), // Role = "Admin" hoặc "Student"
+                new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()) // Lưu thêm UserId để tiện lấy dữ liệu
+            };
+
+            var claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+            var claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
+
+            await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, claimsPrincipal,
+                new AuthenticationProperties { IsPersistent = true });
 
             return RedirectToPage("/Index");
         }

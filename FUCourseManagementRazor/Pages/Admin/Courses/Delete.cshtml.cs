@@ -1,16 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Microsoft.EntityFrameworkCore;
-using FUBusiness;
 using FUBusiness.Models;
 using FURepositories;
+using Microsoft.AspNetCore.Authorization;
 
 namespace FUCourseManagementRazor.Pages.Admin.Courses
 {
+    [Authorize(Roles = "Admin")]
     public class DeleteModel : PageModel
     {
         private readonly ICourseRepository _courseRepository;
@@ -25,11 +21,6 @@ namespace FUCourseManagementRazor.Pages.Admin.Courses
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
-            var role = HttpContext.Session.GetString("UserRole");
-            if (role != "Admin")
-            {
-                return RedirectToPage("/AccessDenied");
-            }
             if (id == null)
             {
                 return NotFound();
@@ -50,11 +41,6 @@ namespace FUCourseManagementRazor.Pages.Admin.Courses
 
         public async Task<IActionResult> OnPostAsync(int? id)
         {
-            var role = HttpContext.Session.GetString("UserRole");
-            if (role != "Admin")
-            {
-                return RedirectToPage("/AccessDenied");
-            }
             if (id == null)
             {
                 return NotFound();

@@ -3,32 +3,68 @@
   "WorkspaceRootPath": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\student\\courses\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\student\\courses\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\student\\enrollment\\enrollmenthistory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\student\\enrollment\\enrollmenthistory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\student\\enrollment\\enrollmenthistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\student\\enrollment\\enrollmenthistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\admin\\enrollments\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\admin\\enrollments\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\admin\\enrollments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\admin\\enrollments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\student\\courses\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\student\\courses\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\student\\enrollment\\enrollmenthistory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\student\\enrollment\\enrollmenthistory.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\student\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\student\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\admin\\courses\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\admin\\courses\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\admin\\courses\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\admin\\courses\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\admin\\courses\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\admin\\courses\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\admin\\courses\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\admin\\courses\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\admin\\courses\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\admin\\courses\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\admin\\courses\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,68 +75,28 @@
       "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\admin\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\admin\\enrollments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\admin\\enrollments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBD6F954-4123-4ACF-B091-CF1AAE2EE63F}|FUDataAccess\\FUDataAccess.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fudataaccess\\enrollmentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBD6F954-4123-4ACF-B091-CF1AAE2EE63F}|FUDataAccess\\FUDataAccess.csproj|solutionrelative:fudataaccess\\enrollmentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FBD6F954-4123-4ACF-B091-CF1AAE2EE63F}|FUDataAccess\\FUDataAccess.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fudataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FBD6F954-4123-4ACF-B091-CF1AAE2EE63F}|FUDataAccess\\FUDataAccess.csproj|solutionrelative:fudataaccess\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40EF21D-7EB0-469F-B7DC-B4D81A8AADDB}|FURepositories\\FURepositories.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\furepositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40EF21D-7EB0-469F-B7DC-B4D81A8AADDB}|FURepositories\\FURepositories.csproj|solutionrelative:furepositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\student\\enrollment\\enrollmenthistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\student\\enrollment\\enrollmenthistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A40EF21D-7EB0-469F-B7DC-B4D81A8AADDB}|FURepositories\\FURepositories.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\furepositories\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40EF21D-7EB0-469F-B7DC-B4D81A8AADDB}|FURepositories\\FURepositories.csproj|solutionrelative:furepositories\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A40EF21D-7EB0-469F-B7DC-B4D81A8AADDB}|FURepositories\\FURepositories.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\furepositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40EF21D-7EB0-469F-B7DC-B4D81A8AADDB}|FURepositories\\FURepositories.csproj|solutionrelative:furepositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|d:\\fpt_university\\7_spring25\\prn222\\demope_fucoursemanagement\\fucoursemanagementrazor\\pages\\admin\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB4F6B26-CEB4-4A19-8EF0-A974A5FFFE6A}|FUCourseManagementRazor\\FUCourseManagementRazor.csproj|solutionrelative:fucoursemanagementrazor\\pages\\admin\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -116,209 +112,247 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Student\\Courses\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Student\\Courses\\Index.cshtml.cs",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Student\\Courses\\Index.cshtml.cs",
-              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Student\\Courses\\Index.cshtml.cs",
-              "ViewState": "AQIAAHkAAAAAAAAAAAA0wCgAAAAgAAAA",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T14:12:37.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EnrollmentHistory.cshtml.cs",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Student\\Enrollment\\EnrollmentHistory.cshtml.cs",
-              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Student\\Enrollment\\EnrollmentHistory.cshtml.cs",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Student\\Enrollment\\EnrollmentHistory.cshtml.cs",
-              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Student\\Enrollment\\EnrollmentHistory.cshtml.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAywBcAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T14:12:06.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EnrollmentHistory.cshtml",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Student\\Enrollment\\EnrollmentHistory.cshtml",
-              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Student\\Enrollment\\EnrollmentHistory.cshtml",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Student\\Enrollment\\EnrollmentHistory.cshtml",
-              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Student\\Enrollment\\EnrollmentHistory.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T14:12:01.856Z",
+              "WhenOpened": "2025-03-20T04:24:51.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Delete.cshtml.cs",
-              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Delete.cshtml.cs",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Delete.cshtml.cs",
-              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Delete.cshtml.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAA1wDgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T14:10:40.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Edit.cshtml.cs",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Edit.cshtml.cs",
-              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Edit.cshtml.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAywCAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T14:10:10.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Details.cshtml.cs",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Details.cshtml.cs",
-              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Details.cshtml.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAywAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T14:10:04.469Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T13:59:37.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Index.cshtml.cs",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAA4wBAAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T13:56:02.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Index.cshtml",
               "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Index.cshtml",
               "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACYAAAAyAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T13:54:25.329Z",
+              "WhenOpened": "2025-03-20T04:24:40.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserDAO.cs",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUDataAccess\\UserDAO.cs",
-              "RelativeDocumentMoniker": "FUDataAccess\\UserDAO.cs",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUDataAccess\\UserDAO.cs",
-              "RelativeToolTip": "FUDataAccess\\UserDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T13:54:19.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FURepositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "FURepositories\\UserRepository.cs",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FURepositories\\UserRepository.cs",
-              "RelativeToolTip": "FURepositories\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T13:54:17.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AccessDenied.cshtml.cs",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\AccessDenied.cshtml.cs",
-              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\AccessDenied.cshtml.cs",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\AccessDenied.cshtml.cs",
-              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\AccessDenied.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T13:51:19.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Logout.cshtml",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Logout.cshtml",
-              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Logout.cshtml",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Logout.cshtml",
-              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Logout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T13:50:40.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Logout.cshtml.cs",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Logout.cshtml.cs",
-              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Logout.cshtml.cs",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Logout.cshtml.cs",
-              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Logout.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T13:50:38.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 1,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Login.cshtml.cs",
               "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Login.cshtml.cs",
               "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Login.cshtml.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAIwAQAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T13:50:28.587Z",
+              "WhenOpened": "2025-03-18T12:31:32.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnrollmentHistory.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Student\\Enrollment\\EnrollmentHistory.cshtml.cs",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Student\\Enrollment\\EnrollmentHistory.cshtml.cs",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Student\\Enrollment\\EnrollmentHistory.cshtml.cs",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Student\\Enrollment\\EnrollmentHistory.cshtml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:19:43.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Student\\Courses\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Student\\Courses\\Index.cshtml.cs",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Student\\Courses\\Index.cshtml.cs",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Student\\Courses\\Index.cshtml.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAywGkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:56:23.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Enrollments\\Index.cshtml",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Admin\\Enrollments\\Index.cshtml",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Enrollments\\Index.cshtml",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Admin\\Enrollments\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T04:20:41.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Enrollments\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Admin\\Enrollments\\Index.cshtml.cs",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Enrollments\\Index.cshtml.cs",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Admin\\Enrollments\\Index.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:29:18.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Logout.cshtml.cs",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Logout.cshtml.cs",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:31:20.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccessDenied.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\AccessDenied.cshtml.cs",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\AccessDenied.cshtml.cs",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\AccessDenied.cshtml.cs",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\AccessDenied.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:30:17.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Student\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Student\\Courses\\Index.cshtml",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Student\\Courses\\Index.cshtml",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Student\\Courses\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T03:56:20.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Program.cs",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Program.cs",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Program.cs",
+              "RelativeToolTip": "FUCourseManagementRazor\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAzwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:09:40.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAACsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T12:29:23.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Edit.cshtml.cs",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Edit.cshtml.cs",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Edit.cshtml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T02:29:53.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Details.cshtml.cs",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Details.cshtml.cs",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Details.cshtml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAIBAwA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T12:30:04.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Delete.cshtml.cs",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Delete.cshtml.cs",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Delete.cshtml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:19:32.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Create.cshtml.cs",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Create.cshtml.cs",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Create.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T18:18:50.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "AccessDenied.cshtml",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\AccessDenied.cshtml",
-              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\AccessDenied.cshtml",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\AccessDenied.cshtml",
-              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\AccessDenied.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAC8AAAAKAAAA",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Create.cshtml",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Create.cshtml",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T13:49:48.418Z",
+              "WhenOpened": "2025-03-17T18:19:14.862Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Index.cshtml.cs",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Index.cshtml.cs",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Index.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:56:03.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Error.cshtml",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T12:31:43.513Z"
             },
             {
               "$type": "Document",
@@ -328,113 +362,58 @@
               "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Login.cshtml",
               "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Login.cshtml",
               "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Login.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T13:48:07.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T02:20:24.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Program.cs",
-              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Program.cs",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Program.cs",
-              "RelativeToolTip": "FUCourseManagementRazor\\Program.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAswBkAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T13:47:09.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Create.cshtml.cs",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Create.cshtml.cs",
-              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Create.cshtml.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAiwB0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T13:46:00.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Create.cshtml",
-              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Create.cshtml",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Create.cshtml",
-              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Create.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 21,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\AccessDenied.cshtml",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\AccessDenied.cshtml",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\AccessDenied.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T13:45:59.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T12:30:19.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EnrollmentDAO.cs",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUDataAccess\\EnrollmentDAO.cs",
-              "RelativeDocumentMoniker": "FUDataAccess\\EnrollmentDAO.cs",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUDataAccess\\EnrollmentDAO.cs",
-              "RelativeToolTip": "FUDataAccess\\EnrollmentDAO.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAIAwwGAAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T13:40:03.836Z",
-              "EditorCaption": ""
+              "DocumentIndex": 22,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-18T12:29:19.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "EnrollmentRepository.cs",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FURepositories\\EnrollmentRepository.cs",
-              "RelativeDocumentMoniker": "FURepositories\\EnrollmentRepository.cs",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FURepositories\\EnrollmentRepository.cs",
-              "RelativeToolTip": "FURepositories\\EnrollmentRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBgAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T13:39:29.314Z"
+              "DocumentIndex": 18,
+              "Title": "EnrollmentHistory.cshtml",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Student\\Enrollment\\EnrollmentHistory.cshtml",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Student\\Enrollment\\EnrollmentHistory.cshtml",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Student\\Enrollment\\EnrollmentHistory.cshtml",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Student\\Enrollment\\EnrollmentHistory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-17T18:19:38.973Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "IEnrollmentRepository.cs",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FURepositories\\IEnrollmentRepository.cs",
-              "RelativeDocumentMoniker": "FURepositories\\IEnrollmentRepository.cs",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FURepositories\\IEnrollmentRepository.cs",
-              "RelativeToolTip": "FURepositories\\IEnrollmentRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAArwA4AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T13:39:20.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Enrollments\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Admin\\Enrollments\\Index.cshtml.cs",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Enrollments\\Index.cshtml.cs",
-              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Admin\\Enrollments\\Index.cshtml.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAywBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T13:33:42.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Enrollments\\Index.cshtml",
-              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Admin\\Enrollments\\Index.cshtml",
-              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Enrollments\\Index.cshtml",
-              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Admin\\Enrollments\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Delete.cshtml",
+              "ToolTip": "D:\\FPT_UNIVERSITY\\7_Spring25\\PRN222\\DemoPE_FUCourseManagement\\FUCourseManagementRazor\\Pages\\Admin\\Courses\\Delete.cshtml",
+              "RelativeToolTip": "FUCourseManagementRazor\\Pages\\Admin\\Courses\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-17T13:33:41.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T18:19:33.213Z"
             }
           ]
         }

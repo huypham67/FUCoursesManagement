@@ -1,31 +1,27 @@
 using FUBusiness.Models;
 using FURepositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Security.Claims;
 
 namespace FUCourseManagementRazor.Pages.Student.Enrollment
 {
+    [Authorize(Roles = "Student")]
     public class EnrollmentHistoryModel : PageModel
     {
         private readonly IEnrollmentRepository _enrollmentRepository;
-        private readonly IHttpContextAccessor _httpContextAccessor;
 
-        public EnrollmentHistoryModel(IEnrollmentRepository enrollmentRepository, IHttpContextAccessor httpContextAccessor)
+        public EnrollmentHistoryModel(IEnrollmentRepository enrollmentRepository)
         {
             _enrollmentRepository = enrollmentRepository;
-            _httpContextAccessor = httpContextAccessor;
         }
 
         public List<EnrollmentRecord> Enrollments { get; set; } = new();
 
         public async Task<IActionResult> OnGetAsync()
         {
-            var role = HttpContext.Session.GetString("UserRole");
-            if (role != "Student")
-            {
-                return RedirectToPage("/AccessDenied");
-            }
-            int? userId = GetUserIdFromSession();
+            int? userId = GetUserIdFromClaims();
             if (userId == null)
             {
                 TempData["Error"] = "User not logged in.";
@@ -36,9 +32,10 @@ namespace FUCourseManagementRazor.Pages.Student.Enrollment
             return Page();
         }
 
-        private int? GetUserIdFromSession()
+        private int? GetUserIdFromClaims()
         {
-            return _httpContextAccessor.HttpContext?.Session.GetInt32("UserId");
+            var userIdClaim = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            return int.TryParse(userIdClaim, out int userId) ? userId : null;
         }
     }
 }

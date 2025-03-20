@@ -9,9 +9,11 @@ using Microsoft.EntityFrameworkCore;
 using FUBusiness;
 using FUBusiness.Models;
 using FURepositories;
+using Microsoft.AspNetCore.Authorization;
 
 namespace FUCourseManagementRazor.Pages.Admin.Courses
 {
+    [Authorize(Roles = "Admin")]
     public class EditModel : PageModel
     {
         private readonly ICourseRepository _courseRepository;
@@ -26,11 +28,6 @@ namespace FUCourseManagementRazor.Pages.Admin.Courses
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
-            var role = HttpContext.Session.GetString("UserRole");
-            if (role != "Admin")
-            {
-                return RedirectToPage("/AccessDenied");
-            }
             if (id == null)
             {
                 return NotFound();
@@ -49,11 +46,6 @@ namespace FUCourseManagementRazor.Pages.Admin.Courses
         // For more information, see https://aka.ms/RazorPagesCRUD.
         public async Task<IActionResult> OnPostAsync()
         {
-            var role = HttpContext.Session.GetString("UserRole");
-            if (role != "Admin")
-            {
-                return RedirectToPage("/AccessDenied");
-            }
             if (!ModelState.IsValid)
             {
                 return Page();

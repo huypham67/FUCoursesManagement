@@ -8,9 +8,11 @@ using Microsoft.EntityFrameworkCore;
 using FUBusiness;
 using FUBusiness.Models;
 using FURepositories;
+using Microsoft.AspNetCore.Authorization;
 
 namespace FUCourseManagementRazor.Pages.Admin.Courses
 {
+    [Authorize(Roles = "Admin")]
     public class IndexModel : PageModel
     {
         private readonly ICourseRepository _courseRepository;

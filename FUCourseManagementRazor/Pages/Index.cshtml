@@ -4,20 +4,20 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
+<div class="text-center mt-4">
     <h1 class="display-4">Welcome</h1>
 
     @if (Model.UserRole == "Admin")
     {
-        <div class="alert alert-primary">
+        <div class="alert alert-primary shadow mt-4">
             <h2>👨‍💼 Admin Dashboard</h2>
             <p>Manage users, courses, and system settings.</p>
-            <a class="btn btn-primary" asp-page="/">Go to Admin Panel</a>
+            <a class="btn btn-primary" asp-page="/Admin/Dashboard">Go to Admin Panel</a>
         </div>
     }
     else if (Model.UserRole == "Student")
     {
-        <div class="alert alert-success">
+        <div class="alert alert-success shadow mt-4">
             <h2>📚 Student Portal</h2>
             <p>Browse and enroll in courses.</p>
             <a class="btn btn-success" asp-page="/Student/Courses/Index">View Courses</a>
@@ -25,15 +25,15 @@
     }
     else if (Model.UserRole == "Instructor")
     {
-        <div class="alert alert-info">
+        <div class="alert alert-info shadow mt-4">
             <h2>👨‍🏫 Instructor Dashboard</h2>
             <p>Manage your courses and students.</p>
-            <a class="btn btn-info" asp-page="/">Manage Courses</a>
+            <a class="btn btn-info" asp-page="/Instructor/Courses">Manage Courses</a>
         </div>
     }
     else
     {
-        <div class="alert alert-warning">
+        <div class="alert alert-warning shadow mt-4">
             <h2>🔐 Guest</h2>
             <p>Please login to access your dashboard.</p>
             <a class="btn btn-warning" asp-page="/Login">Login</a>
